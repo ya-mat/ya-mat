@@ -13,7 +13,7 @@
 ## 研究業績
 
 ### 論文（査読あり）
-1. 松本安弘，西村直志，2次元Helmholtz方程式の一周期transmission問題におけるinterpolative decompositionに基づいた高速直接解法の性能比較， 計算数理工学論文集, 17, 2016.
+1. 松本安弘，西村直志，2次元Helmholtz方程式の一周期transmission問題におけるinterpolative decompositionに基づいた高速直接解法の性能比較， 計算数理工学論文集, 17, 2017.
 1. 松本安弘，西村直志，[2次元Helmholtz方程式のtransmission 境界値問題の高速直接解法について](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/16/JA1622.pdf)， 計算数理工学論文集, 16, 2016.
 1. 松本安弘，新納和樹，西村直志，[H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/14/JA1418.pdf)， 計算数理工学論文集, 14, 79-84, 2014.
 
