@@ -1,3 +1,23 @@
+# Yasuhiro Matsumoto
+
+## Research domain
+- Fast solvers of boundary integral equation method. Specifically, I study fast direct solver.
+- And, maintenance of tunnels for communication.
+
+## History
+- April, 2015. Kyoto Univ. Graduate school of informatics. 
+- April, 2014. Working on cooporation.
+
+### Papers
+1. Y Matsumoto, N Nishimura, [PERFORMANCE COMPARISON OF FAST DIRECT SOLVERS BASED ON INTERPOLATIVE DECOMPOSITION FOR ONE-PERIODIC TRANSMISSION PROBLEMS OF HELMHOLTZ’ EQUATION IN 2D.](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/17/JA1721.pdf) transactions of JASCOME, 17(2017), pp.00-000. (In Japanese)
+1. Y Matsumoto and N Nishimura, [A fast direct solver for transmission boundary value problems for Helmholtz' equation in 2D](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/16/JA1622.pdf), transactions of JASCOME, 16(2016), pp.97􏰀102. (In Japanese)
+1. Y Matsumoto, K Niino, N Nishimura, [A FAST DIRECT SOLVER OF PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’ EQUATION IN 2D BASED ON THE H MATRIX ARITHMETICS](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/14/JA1418.pdf). transactions of JASCOME, 14, 79-84, 2014.
+
+### Conference
+1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
+1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf).  Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
+
+
 # 松本安弘（まつもとやすひろ）
 
 ## 研究分野
@@ -17,9 +37,10 @@
 1. 松本安弘，西村直志，[2次元Helmholtz方程式のtransmission 境界値問題の高速直接解法について](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/16/JA1622.pdf)， 計算数理工学論文集, 16, 2016.
 1. 松本安弘，新納和樹，西村直志，[H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/14/JA1418.pdf)， 計算数理工学論文集, 14, 79-84, 2014.
 
-### 国際会議（特記しない限り審査あり）
-1. K Kawabata, Y Matsumoto, E Sawada, H Takeuchi, A Koizumi. "A Fundamental Study on structual evaluation for secondary lining of shield tunnels." 日中シールド技術交流会，南京，中国，2015.（査読なし）
-1. Y Matsumoto, N Nishimura. "[A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf)."  Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
+### 国際会議
+1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
+1. K Kawabata, Y Matsumoto, E Sawada, H Takeuchi, A Koizumi. A Fundamental Study on structual evaluation for secondary lining of shield tunnels. 日中シールド技術交流会，南京，中国，2015.（査読なし）
+1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf).  Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
 
 ### 国内学会発表等
 1. 松本安弘，出口大志，川端一嘉，二次覆工の建設順序を考慮したシールドトンネルの劣化時挙動に関する一考察，第72回土木学会年次学術講演会講演概要集，博多，2017．
