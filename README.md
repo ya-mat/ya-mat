@@ -11,7 +11,7 @@
 ### Papers
 1. Y Matsumoto, N Nishimura, [PERFORMANCE COMPARISON OF FAST DIRECT SOLVERS BASED ON INTERPOLATIVE DECOMPOSITION FOR ONE-PERIODIC TRANSMISSION PROBLEMS OF HELMHOLTZ’ EQUATION IN 2D.](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/17/JA1721.pdf) transactions of JASCOME, 17(2017), pp.00-000. (In Japanese)
 1. Y Matsumoto and N Nishimura, [A fast direct solver for transmission boundary value problems for Helmholtz' equation in 2D](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/16/JA1622.pdf), transactions of JASCOME, 16(2016), pp.97􏰀102. (In Japanese)
-1. Y Matsumoto, K Niino, N Nishimura, [A FAST DIRECT SOLVER OF PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’ EQUATION IN 2D BASED ON THE H MATRIX ARITHMETICS](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/14/JA1418.pdf). transactions of JASCOME, 14, 79-84, 2014.
+1. Y Matsumoto, K Niino, N Nishimura, [A FAST DIRECT SOLVER OF PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’ EQUATION IN 2D BASED ON THE H MATRIX ARITHMETICS](http://gspsun1.gee.kyoto-u.ac.jp/JASCOME/denshi-journal/14/JA1418.pdf). transactions of JASCOME, 14, 79-84, 2014. (In Japanese)
 
 ### Conference
 1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
