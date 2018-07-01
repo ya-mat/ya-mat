@@ -17,6 +17,7 @@
 1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
 1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf).  Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
 
+-------
 
 # 松本安弘（まつもとやすひろ）
 
