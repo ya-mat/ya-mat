@@ -53,6 +53,7 @@
 1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf). Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
 
 ### 国内学会発表等
+1. 松本安弘, 岸本ほのか, 泉俊光, 玉松潤一郎, 岩波基, シールドトンネルの鋼製セグメントの継手部の3次元解析モデルの検討, 第77回土木学会年次学術講演会講演概要集, 2022 (accepted).
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, 二次覆工を有するシールドトンネルの鋼製セグメントの劣化調査結果, 第76回土木学会年次学術講演会講演概要集, 2021.
 1. 松本安弘, 西村直志, 2次元Helmholtz方程式の1周期transmission問題に対するBurton-Millerの積分方程式を用いた高速直接解法, 日本応用数理学会第15回研究部会連合発表会, 筑波, 2019．
 1. 西村直志, 松本安弘, マルチトレース境界積分法による周期トランスミッション問題の高速直接解法について, 第30回計算力学講演会講演論文集, 2018.
@@ -64,6 +65,7 @@
 1. 松本安弘, 出口大志, 川端一嘉, 二次覆工を有するシールドトンネルのひび割れのモデル化に関する実験および数値的考察, 第71回土木学会年次学術講演会講演概要集, 2016．
 1. K Kawabata, Y Matsumoto, E Sawada, H Takeuchi, A Koizumi. A Fundamental Study on structual evaluation for secondary lining of shield tunnels. 日中シールド技術交流会, 南京, 中国, 2015.
 1. 松本安弘, 西村直志, 新納和樹, 2次元Helmholtz方程式の1周期境界値問題に対する高速直接解法について, 計算工学講演会論文集 Vol. 19. 日本計算工学会, 2014．
+松本安弘, 斉木功, 福田建, 山田真幸, 岩熊哲夫, 津波荷重を受ける鋼トラス橋の非線形挙動に関する一考察, 土木学会東北支部技術研究発表会 (平成23年度), 2012.
 
 ### 特許 (出願後1年6ヶ月未経過のため未公開)
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, 故障判定システム、故障判定方法、制御装置、及びプログラム, 2021年出願
