@@ -43,7 +43,7 @@
 ### 論文（査読あり）
 1. 松本安弘, 西村直志, [2次元Helmholtz方程式の1周期transmission問題に対するBurton-Millerの定式化を用いた高速直接解法](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/19/JA1915.pdf), 計算数理工学論文集, vol.19, pp.73-78, 2019.
 1. 松本安弘, 西村直志, [2次元Helmholtz方程式の一周期transmission問題におけるinterpolative decompositionに基づいた高速直接解法の性能比較](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/17/JA1721.pdf), 計算数理工学論文集, vol.17, pp.101-106, 2017.
-1. 松本安弘, 西村直志, [2次元Helmholtz方程式のtransmission 境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/16/JA1622.pdf), 計算数理工学論文集, vol.16, pp.97-102 , 2016.
+1. 松本安弘, 西村直志, [2次元Helmholtz方程式のtransmission 境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/16/JA1622.pdf), 計算数理工学論文集, vol.16, pp.97-102, 2016.
 1. 松本安弘, 新納和樹, 西村直志, [H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/14/JA1419.pdf), 計算数理工学論文集, vol.14, pp.79-84, 2014.
 
 ### 国際会議 (査読あり)
