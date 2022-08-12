@@ -52,6 +52,9 @@
 1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
 1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf). Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
 
+### 著書
+1. 土木学会, トンネル・ライブラリー第30号 トンネルの維持管理の実態と課題, 丸善出版, 2019.1. (分担執筆)
+
 ### 国内学会発表等
 1. 松本安弘, 岸本ほのか, 泉俊光, 玉松潤一郎, 岩波基, シールドトンネルの鋼製セグメントの継手部の3次元解析モデルの検討, 第77回土木学会年次学術講演会講演概要集, vol. 77, no. 3-345, pp. xx-xx, 2022.9. (accepted).
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, 二次覆工を有するシールドトンネルの鋼製セグメントの劣化調査結果, 第76回土木学会年次学術講演会講演概要集, vol. 77, no, 3-190, pp. xx-xx, 2021.
