@@ -48,9 +48,9 @@
 
 ### 国際会議 (査読あり)
 1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022 (accepted).
-1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for One-Periodic Transmission Problems of Helmholtz’ Equation in 2D with Burton-Miller Integral Equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), Proceedings of ICOME 2019, September 27-30, Dalian, China, 2019.
-1. Y Matsumoto, N Nishimura, [A Fast Direct Solver for the One-Periodic Transmission Problems Formulated with the Multi-Trace Boundary Integral Equation.](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf) Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
-1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf). Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
+1. Y Matsumoto, N Nishimura, [A fast direct solver for one-periodic transmission problems of Helmholtz’ equation in 2D with Burton-Miller integral equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), Proceedings of ICOME 2019, September 27-30, Dalian, China, 2019.
+1. Y Matsumoto, N Nishimura, [A fast direct solver for the one-periodic transmission problems formulated with the multi-trace boundary integral equation](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf), Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
+1. Y Matsumoto, N Nishimura. [A fast direct solver for one periodic boundary value problems for Helmholtz’ equation in 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf), Proceedings of WCCM-ECCM-ECFD 2014, July 20-25, Barcelona, Spain, 2014.
 
 ### 著書
 1. 土木学会, トンネル・ライブラリー第30号 トンネルの維持管理の実態と課題, 丸善出版, 2019.1. (分担執筆)
