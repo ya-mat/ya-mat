@@ -1,3 +1,4 @@
+<!--
 # Yasuhiro Matsumoto
 
 ## Research domain
@@ -20,16 +21,23 @@
 1. Y Matsumoto, N Nishimura. [A FAST DIRECT SOLVER FOR ONE PERIODIC BOUNDARY VALUE PROBLEMS FOR HELMHOLTZ’EQUATION IN 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf).  Proceedings of wccm-eccm-ecfd, July 20-25, Barcelona, Spain, 2014.
 
 -------
+-->
 
 # 松本安弘（まつもとやすひろ）
 
-## 研究分野
-- 積分方程式の高速解法．特に，境界要素法の高速直接解法を研究．
-- 通信用トンネルの維持管理に関する研究．
+## 興味の対象
+数値計算技術の高速化に興味を持っています．例えば，積分方程式の数理的性質を応用した解法の高速化や，最新のCPUやGPU等のコンピュータアーキテクチャを最大限活用した高速化技術．具体的には数値計算の高速化方法を考え，数値計算プログラムとして実装しその効果を検証する，といったことをしています．理論から実装まで一貫して取り組んでおり，過去の経歴から通信分野での応用にも興味を持っています．
+
+## 研究分野キーワード
+
+- 積分方程式の高速解法，特に境界要素法の高速直接解法など
+- 並列計算技術
+- 通信分野関連技術 (通信土木，通信用トンネルの維持管理，光ファイバ通信のアクセス区間ハードウェアの仮想化など)
 
 ## 経歴
 
-- 2020年8月 日本電信電話株式会社 アクセスサービスシステム研究所 勤務 (現職)
+- 2023年3月 東京工業大学 学術国際情報センター 先端研究部門 高性能計算先端応用分野 特任講師 (現職)
+- 2020年8月 日本電信電話株式会社 アクセスサービスシステム研究所 勤務
 - 2020年3月 京都大学大学院 情報学研究科 先端数理科学専攻 修了
 - 2018年7月 西日本電信電話株式会社 ネットワーク部 勤務
 - 2017年4月 京都大学大学院 情報学研究科 先端数理科学専攻 後期博士課程編入学 (改組による専攻名称変更)
@@ -38,7 +46,7 @@
 - 2014年3月 京都大学大学院 情報学研究科 複雑系科学専攻 修士課程修了
 - 2012年3月 東北大学 工学部 卒業
 
-## 研究業績
+## 研究業績等
 
 ### 論文（査読あり）
 1. 松本安弘, 西村直志, [2次元Helmholtz方程式の1周期transmission問題に対するBurton-Millerの定式化を用いた高速直接解法](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/19/JA1915.pdf), 計算数理工学論文集, vol.19, pp.73-78, 2019.
@@ -47,7 +55,8 @@
 1. 松本安弘, 新納和樹, 西村直志, [H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/14/JA1419.pdf), 計算数理工学論文集, vol.14, pp.79-84, 2014.
 
 ### 国際会議 (査読あり)
-1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022 (accepted).
+1. Y Matsumoto, I Wakui, J Tamamatsu, Structural analysis model of joints in steel segment shield tunnel for 3D FEM, Proceedings of WTC 2023, 12-18 May, Athens, Greece, 2023.
+1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for one-periodic transmission problems of Helmholtz’ equation in 2D with Burton-Miller integral equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), Proceedings of ICOME 2019, September 27-30, Dalian, China, 2019.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for the one-periodic transmission problems formulated with the multi-trace boundary integral equation](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf), Proceedings of IABEM 2018, June 26-28, Paris, France, 2018.
 1. Y Matsumoto, N Nishimura. [A fast direct solver for one periodic boundary value problems for Helmholtz’ equation in 2D](http://www.wccm-eccm-ecfd2014.org/admin/files/fileabstract/a2739.pdf), Proceedings of WCCM-ECCM-ECFD 2014, July 20-25, Barcelona, Spain, 2014.
@@ -56,7 +65,7 @@
 1. 土木学会, トンネル・ライブラリー第30号 トンネルの維持管理の実態と課題, 丸善出版, 2019.1. (分担執筆)
 
 ### 国内学会発表等
-1. 松本安弘, 岸本ほのか, 泉俊光, 玉松潤一郎, 岩波基, シールドトンネルの鋼製セグメントの継手部の3次元解析モデルの検討, 第77回土木学会年次学術講演会講演概要集, vol. 77, no. 3-345, pp. xx-xx, 2022.9. (accepted).
+1. 松本安弘, 岸本ほのか, 泉俊光, 玉松潤一郎, 岩波基, シールドトンネルの鋼製セグメントの継手部の3次元解析モデルの検討, 第77回土木学会年次学術講演会講演概要集, vol. 77, no. 3-345, pp. xx-xx, 2022.9.
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, 二次覆工を有するシールドトンネルの鋼製セグメントの劣化調査結果, 第76回土木学会年次学術講演会講演概要集, vol. 77, no, 3-190, pp. xx-xx, 2021.
 1. 松本安弘, 西村直志, [2次元Helmholtz方程式の1周期transmission問題に対するBurton-Millerの積分方程式を用いた高速直接解法](https://union2019.jsiam.org/program/#1391), 日本応用数理学会第15回研究部会連合発表会, 筑波, 2019.3．
 1. 松本安弘, 水野等, 明里慶祐, 後藤 和彦, [現用の通信用シールドトンネルの一次覆工減肉量調査結果](http://library.jsce.or.jp/jsce/open/00047/2018/28-02-12.pdf), トンネル工学報告集, vol.28, no. II-12_1-6, pp.1--6, 2018.11.
@@ -76,6 +85,18 @@
 1. 篠﨑聡, 松本安弘, 玉松潤一郎, 構造物及び構造物の診断方法, 2021年出願
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, トンネル変位推定システム、及びトンネル変位推定方法, 2021年出願
 1. 松本安弘, 篠﨑聡, 玉松潤一郎, 風速計算装置、風速計算方法、及びプログラム, 2021年出願
+1. 他10件ほど
+
+### 委員歴
+1. 2022年9月 - 現在
+    土木学会, トンネル工学委員会 示方書改訂小委員会 シールド工法小委員会/覆工分科会 委員 
+1. 2021年6月 - 2023年2月
+    土木学会, 建設用ロボット委員会 維持管理小委員会 委員
+1. 2017年7月 - 2018年6月
+    土木学会, トンネル工学委員会 技術小委員会トンネル維持管理事例に関する検討部会 委員
+
+### 査読歴
+1. 土木学会論文集A2 (応用力学)
 
 ### 学位論文
 1. 松本安弘, 周期波動transmission問題に対する境界要素法の高速直接解法, 京都大学学位論文, 2020.
