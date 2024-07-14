@@ -21,6 +21,8 @@
 1. 土木学会, トンネル・ライブラリー第30号 トンネルの維持管理の実態と課題, 丸善出版, 2019.1. (分担執筆)
 
 ### 国内学会発表等
+1. 松本安弘, 高性能計算機における高速直接境界要素法の並列化効率, 第29回計算工学講演会, 6月10日--12日, 神戸, 2024.
+1. 吉規晃弘, 松本安弘, 飯盛浩司, トランスミッション問題に対するBurton-Miller型境界積分方程式のCalderon前処理について, 6月10日--12日, 神戸, 2024.
 1. 松本安弘, 境界積分方程式に対する補間分解に基づく高速解法の頑強なKrylov部分空間法への応用, [土木学会応用力学委員会 北海道地区・応用力学フォーラム ～振動・波動解析の研究と動向，将来へのホンネ～](https://appmech-jsce.com/post_forum/2023%e5%b9%b4%e5%ba%a6-%e5%8c%97%e6%b5%b7%e9%81%93%e5%9c%b0%e5%8c%ba%e3%83%bb%e5%bf%9c%e7%94%a8%e5%8a%9b%e5%ad%a6%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0-%ef%bd%9e%e6%8c%af%e5%8b%95%e3%83%bb/), 札幌, 2024.3 (**招待講演**).
 1. 松本安弘, 波動散乱問題に対するBurton-Miller型境界積分方程式を用いた高速解法, [土木学会応用力学委員会「境界要素法」講習会](https://appmech-jsce.com/events/event/%E3%80%8C%E5%A2%83%E7%95%8C%E8%A6%81%E7%B4%A0%E6%B3%95%E3%80%8D%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/), オンライン開催, 2024.3 (**招待講演**).
 1. 松本安弘, Helmholtz方程式の境界値問題に対する境界要素法を用いた内点の高速評価, [日本応用数理学会第20回研究部会連合発表会](https://conference.wdc-jp.com/jsiam/union/2024/program/program_flash.html#ROS8muWgtO+8iDEwNOism+e+qeWupO+8iQ==), 長岡, 2024.3.
@@ -78,8 +80,15 @@
 
 ### 査読経験のある論文誌
 1. Engineering Analysis with Boundary Elements
+1. 土木学会 構造工学委員会 AI・データサイエンス論文集
 1. 土木学会論文集A2 (応用力学)
 1. 計算数理工学論文集
+
+### 座長
+1. JHPCN 第16回 シンポジウム, [Day 2 ハイパフォーマンスコンピューティング Hall A](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/16th), 7月12日, 2024.
+1. WAVES2024, [BEMF 5: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=125), July 2, 2024.
+1. WAVES2024, [BEMF 9: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=129), July 4, 2024.
+1. JHPCN 第15回 シンポジウム, [セッション7 A会場](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/15th), 7月7日, 2023.
 
 ### 社会貢献
 1. 2023年 パネリスト, [土木学会応用力学講演会「環境と計算力学」におけるパネルディスカッション「環境に対して計算力学が果たすべき役割と可能性，将来展望」](https://appmech-jsce.com/post_kouenkai/%e3%80%8c%e7%92%b0%e5%a2%83%e3%81%a8%e8%a8%88%e7%ae%97%e5%8a%9b%e5%ad%a6%e3%80%8d%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/) (参加者 約170名). 
