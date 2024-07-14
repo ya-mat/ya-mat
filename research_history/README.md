@@ -84,11 +84,12 @@
 1. 土木学会論文集A2 (応用力学)
 1. 計算数理工学論文集
 
-### 座長
-1. JHPCN 第16回 シンポジウム, [Day 2 ハイパフォーマンスコンピューティング Hall A](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/16th), 7月12日, 2024.
-1. WAVES2024, [BEMF 5: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=125), July 2, 2024.
-1. WAVES2024, [BEMF 9: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=129), July 4, 2024.
-1. JHPCN 第15回 シンポジウム, [セッション7 A会場](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/15th), 7月7日, 2023.
+### 座長およびセッションオーガナイザ
+1. JHPCN 第16回 シンポジウム 座長, [Day 2 ハイパフォーマンスコンピューティング Hall A](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/16th), 7月12日, 2024.
+1. WAVES2024 session chair, [BEMF 5: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=125), July 2, 2024.
+1. WAVES2024 session chair, [BEMF 9: Frequency-Domain Boundary Element Method](https://www.conftool.com/waves2024/index.php?page=browseSessions&form_session=129), July 4, 2024.
+2. 
+1. JHPCN 第15回 シンポジウム 座長, [セッション7 A会場](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/15th), 7月7日, 2023.
 
 ### 社会貢献
 1. 2023年 パネリスト, [土木学会応用力学講演会「環境と計算力学」におけるパネルディスカッション「環境に対して計算力学が果たすべき役割と可能性，将来展望」](https://appmech-jsce.com/post_kouenkai/%e3%80%8c%e7%92%b0%e5%a2%83%e3%81%a8%e8%a8%88%e7%ae%97%e5%8a%9b%e5%ad%a6%e3%80%8d%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%94%e6%a1%88%e5%86%85/) (参加者 約170名). 
