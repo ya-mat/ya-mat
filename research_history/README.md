@@ -13,7 +13,7 @@
 1. Y Matsumoto, I Wakui, J Tamamatsu, Structural analysis model of joints in steel segment shield tunnel for 3D FEM, Proceedings of WTC 2023, 12-18 May, Athens, Greece, 2023.
 1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 
-### 国際会議発表 (査読あり)
+### 国際会議発表
 1. Y. Matsumoto, T. Maruyama, A fast direct solver for time-harmonic in-plane elastic wave scattering problems, IABEM 2024, Hong Kong SAR, Chaina, Dec. 2024. 
 1. Y Matsumoto, [A proxy-based fast wavefield evaluation using fast direct solver of boundary integral equation for wave scattering problem](https://doi.org/10.17617/3.MBE4AA), WAVES 2024, June 29 -- July 5, Berlin, Germany, 2024.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for one-periodic transmission problems of Helmholtz’ equation in 2D with Burton-Miller integral equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), Proceedings of ICOME 2019, September 27-30, Dalian, China, 2019.
@@ -27,6 +27,7 @@
 1. 松本安弘, proxy法に基づくほぼ線型の時間複雑性の高速直接境界要素法, 計算数理工学レビュー, vol.2024-2, pp.19--30, 2024.（**国内学会誌招待論文**）
 
 ### 国内学会発表等
+1. 松本安弘, 丸山泰蔵, 二次元面内動弾性問題に対する高速直接解法, 第37回計算力学講演会 (CMD2024), 10月18日--20日, 仙台, 2024.
 1. 松本安弘, [proxy法に基づくほぼ線型の時間複雑性の高速直接境界要素法](https://www.jascome.org/event/study/forum2024sept-j.html), 第46回計算数理工学フォーラム, 9月27日, 東京, 2024.（**招待講演**）
 1. 松本安弘，[Helmholtz方程式のtransmission問題向け直接・間接混合Burton-Miller型積分方程式のLU分解演算量の低減法](https://pub.confit.atlas.jp/ja/event/dmcconf24/session/2room911-14), 9月4日, 神奈川, 2024.
 1. 松本安弘, 高性能計算機における高速直接境界要素法の並列化効率, 第29回計算工学講演会, 6月10日--12日, 神戸, 2024.
