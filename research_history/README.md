@@ -32,7 +32,7 @@
 1. 松本安弘, [proxy法に基づくほぼ線型の時間複雑性の高速直接境界要素法](https://www.jascome.org/event/study/forum2024sept-j.html), 第46回計算数理工学フォーラム, 9月27日, 東京, 2024.（**招待講演**）
 1. 松本安弘，[Helmholtz方程式のtransmission問題向け直接・間接混合Burton-Miller型積分方程式のLU分解演算量の低減法](https://pub.confit.atlas.jp/ja/event/dmcconf24/session/2room911-14), 第67回理論応用力学講演会, 9月4日, 神奈川, 2024.
 1. 松本安弘, 高性能計算機における高速直接境界要素法の並列化効率, 第29回計算工学講演会, 6月10日--12日, 神戸, 2024.
-1. 吉規晃弘, 松本安弘, 飯盛浩司, トランスミッション問題に対するBurton-Miller型境界積分方程式のCalderon前処理について, 6月10日--12日, 神戸, 2024.
+1. 吉規晃弘, 松本安弘, 飯盛浩司, トランスミッション問題に対するBurton-Miller型境界積分方程式のCalderon前処理について, 第29回計算工学講演会, 6月10日--12日, 神戸, 2024.
 1. 松本安弘, 境界積分方程式に対する補間分解に基づく高速解法の頑強なKrylov部分空間法への応用, [土木学会応用力学委員会 北海道地区・応用力学フォーラム ～振動・波動解析の研究と動向，将来へのホンネ～](https://appmech-jsce.com/post_forum/2023%e5%b9%b4%e5%ba%a6-%e5%8c%97%e6%b5%b7%e9%81%93%e5%9c%b0%e5%8c%ba%e3%83%bb%e5%bf%9c%e7%94%a8%e5%8a%9b%e5%ad%a6%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a9%e3%83%a0-%ef%bd%9e%e6%8c%af%e5%8b%95%e3%83%bb/), 札幌, 2024.3 (**招待講演**).
 1. 松本安弘, 波動散乱問題に対するBurton-Miller型境界積分方程式を用いた高速解法, [土木学会応用力学委員会「境界要素法」講習会](https://appmech-jsce.com/events/event/%E3%80%8C%E5%A2%83%E7%95%8C%E8%A6%81%E7%B4%A0%E6%B3%95%E3%80%8D%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/), オンライン開催, 2024.3 (**招待講演**).
 1. 松本安弘, Helmholtz方程式の境界値問題に対する境界要素法を用いた内点の高速評価, [日本応用数理学会第20回研究部会連合発表会](https://conference.wdc-jp.com/jsiam/union/2024/program/program_flash.html#ROS8muWgtO+8iDEwNOism+e+qeWupO+8iQ==), 長岡, 2024.3.
