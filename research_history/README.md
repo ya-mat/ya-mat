@@ -10,6 +10,7 @@
 1. 松本安弘, 新納和樹, 西村直志, [H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/14/JA1419.pdf), 計算数理工学論文集, vol.14, pp.79-84, 2014.
 
 ### 国際会議論文 (査読あり)
+1. Thomas Spendlhofer, Qianxiang Ma, Yasuhiro Matsumoto, Rio Yokota, On the Interplay Between Precision, Rank, Admissibility, and Iterative Refinement for Hierarchical Low-Rank Matrix Solvers, ISC High Performance 2025, 10-13 June, Hanburg, Germany, 2025. 
 1. Y Matsumoto, I Wakui, J Tamamatsu, Structural analysis model of joints in steel segment shield tunnel for 3D FEM, Proceedings of WTC 2023, 12-18 May, Athens, Greece, 2023.
 1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 
