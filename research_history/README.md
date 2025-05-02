@@ -100,6 +100,7 @@
 1. 計算数理工学論文集 
 
 ### 座長およびセッションオーガナイザ
+1. 第47回計算数理工学フォーラム 座長, [テクニカルセッション２](https://www.jascome.org/event/study/forum2025march-j.html), 3月21日, 東京, 2025.
 1. 第67回理論応用力学講演会 座長, [N-OS12-2 波動現象の数理・数値解析とその応用](https://pub.confit.atlas.jp/ja/event/dmcconf24/session/2room915-19), 9月4日, 横浜, 2024.
 1. 第67回理論応用力学講演会 セッションオーガナイザ, [N-OS12 波動現象の数理・数値解析とその応用](https://www.jsme.or.jp/conference/nctam67/OS.pdf), 9月3--6日, 横浜, 2024.
 1. JHPCN 第16回 シンポジウム 座長, [Day 2 ハイパフォーマンスコンピューティング Hall A](https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/sympo/16th), 7月12日, 東京, 2024.
