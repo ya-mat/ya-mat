@@ -2,6 +2,7 @@
 
 ### 論文（査読あり）
 1. Y Matsumoto, T Maruyama, [Linearly scalable fast direct solver based on proxy surface method for two-dimensional elastic wave scattering by cavity](https://doi.org/10.1016/j.enganabound.2025.106148), Engineering Analysis with Boundary Elements, Volume 173, 106148, 2025.
+1. 松本安弘, 丸山泰造, [proxy法による2次元動弾性層ポテンシャルの効率的低ランク近似](https://doi.org/10.60443/jascome.24.0_73), 計算数理工学論文集, vol.24, pp.73-78, 2024.
 1. Y Matsumoto, [Fast wavefield evaluation method based on modified proxy-surface-accelerated interpolative decomposition for two-dimensional scattering problems](https://www.jstage.jst.go.jp/article/jsiaml/16/0/16_61/_article/-char/ja/), JSIAM Letters 16, 61-64, 2024.
 1. 松本安弘, [物質パラメータ比が比較的大きなtransmission 問題における2次元Helmholtz方程式の高速直接解法に適する積分方程式の考察](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/23/No-08-231124.pdf), 計算数理工学論文集, vol.23, pp.71-79, 2023.
 1. 松本安弘, 西村直志, [2次元Helmholtz方程式の1周期transmission問題に対するBurton-Millerの定式化を用いた高速直接解法](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/19/JA1915.pdf), 計算数理工学論文集, vol.19, pp.73-78, 2019.
