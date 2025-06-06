@@ -83,6 +83,7 @@
 -->
 
 ### 委員歴
+1. 2025年6月-現在 土木学会 応用力学委員会 計算力学×α小委員会 幹事
 1. 2025年2⽉-2026年6⽉ Smart Multimedia & Communication Systems 編集委員会 編集委員
 1. 2024年9月-現在 土木学会 応用力学委員会 委員
 1. 2024年8月-現在 SISA 2024 Technical Program Committee
