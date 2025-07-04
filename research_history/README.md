@@ -12,6 +12,7 @@
 1. 松本安弘, 新納和樹, 西村直志, [H行列演算を用いた2次元Helmholtz方程式の1周期境界値問題の高速直接解法について](http://www.matsumoto.nuem.nagoya-u.ac.jp/jascome/denshi-journal/14/JA1419.pdf), 計算数理工学論文集, vol.14, pp.79-84, 2014.
 
 ### 国際会議論文 (査読あり)
+1. Takahiro Suzuki, Yasuhiro Matsumoto, Sang-Yuep Kim, Jun-ichi Kani, Tatsuya Shimada, Softwarization of 320 10G-EPON OLTs Serving 40,960 ONUs with Total 2.78-Tb/s Throughput for Fully Virtualized Central Offices, ECOC 2025, 28 September -- 2 October, Copenhagen, Denmark, 2025.
 1. Takahiro Suzuki, Yasuhiro Matsumoto, Sang-Yuep Kim, Jun-ichi Kani, Tomoaki Yoshida, Automated, Intent-Based, Scalable Software OLT Deployment by Container Orchestrationand Generative AI, OECC/PSC 2025, 29 June -- 3 July, Sapporo, Japan, 2025.
 1. Thomas Spendlhofer, Qianxiang Ma, Yasuhiro Matsumoto, Rio Yokota, On the Interplay Between Precision, Rank, Admissibility, and Iterative Refinement for Hierarchical Low-Rank Matrix Solvers, ISC High Performance 2025, 10-13 June, Hanburg, Germany, 2025. 
 1. Y Matsumoto, I Wakui, J Tamamatsu, Structural analysis model of joints in steel segment shield tunnel for 3D FEM, Proceedings of WTC 2023, 12-18 May, Athens, Greece, 2023.
