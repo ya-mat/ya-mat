@@ -14,7 +14,7 @@
 ### 国際会議論文 (査読あり)
 1. Takahiro Suzuki, Yasuhiro Matsumoto, Sang-Yuep Kim, Jun-ichi Kani, Tatsuya Shimada, Softwarization of 320 10G-EPON OLTs Serving 40,960 ONUs with Total 2.78-Tb/s Throughput for Fully Virtualized Central Offices, ECOC 2025, 28 September -- 2 October, Copenhagen, Denmark, 2025.
 1. Takahiro Suzuki, Yasuhiro Matsumoto, Sang-Yuep Kim, Jun-ichi Kani, Tomoaki Yoshida, Automated, Intent-Based, Scalable Software OLT Deployment by Container Orchestrationand Generative AI, OECC/PSC 2025, 29 June -- 3 July, Sapporo, Japan, 2025.
-1. Thomas Spendlhofer, Qianxiang Ma, Yasuhiro Matsumoto, Rio Yokota, On the Interplay Between Precision, Rank, Admissibility, and Iterative Refinement for Hierarchical Low-Rank Matrix Solvers, ISC High Performance 2025, 10-13 June, Hanburg, Germany, 2025. 
+1. Thomas Spendlhofer, Qianxiang Ma, Yasuhiro Matsumoto, Rio Yokota, [On the Interplay Between Precision, Rank, Admissibility, and Iterative Refinement for Hierarchical Low-Rank Matrix Solvers](https://ieeexplore.ieee.org/abstract/document/11017731/authors#full-text-header), ISC High Performance 2025, 10-13 June, Hanburg, Germany, 2025. 
 1. Y Matsumoto, I Wakui, J Tamamatsu, Structural analysis model of joints in steel segment shield tunnel for 3D FEM, Proceedings of WTC 2023, 12-18 May, Athens, Greece, 2023.
 1. Y Matsumoto, S Satoshi, J Tamamatsu, Water leakage characteristics in deteriorating steel segments of shield tunnels, Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 
