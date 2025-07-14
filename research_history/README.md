@@ -19,7 +19,8 @@
 1. Y Matsumoto, S Satoshi, J Tamamatsu, [Water leakage characteristics in deteriorating steel segments of shield tunnels](https://library.ita-aites.org/wtc/2431-water-leakage-characteristics-in-deteriorating-steel-segments-of-shield-tunnels.html), Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 
 ### 国際会議発表
-1. Y. Matsumoto, T. Maruyama, [A fast direct solver for time-harmonic in-plane elastic wave scattering problems](https://iabem2024hkust-dev.hkust.edu.hk/programdetail.html), IABEM 2024, December 4-6, Hong Kong SAR, Chaina, 2024. 
+1. Y. Matsumoto, H. Isakari, [Calderon Preconditioning of Boundary Integral Operators within Non-GMRES Krylov Methods for the Helmholtz Transmission Problems](https://chiba2025.piers.org/session.html?sid=S135), Autumn PIERS 2025, November 5-9, Chiba, Japan, 2025.
+1. Y. Matsumoto, T. Maruyama, [A fast direct solver for time-harmonic in-plane elastic wave scattering problems](https://iabem2024hkust-dev.hkust.edu.hk/programdetail.html), IABEM 2024, December 4-6, Hong Kong SAR, Chaina, 2024.
 1. Y Matsumoto, [A proxy-based fast wavefield evaluation using fast direct solver of boundary integral equation for wave scattering problem](https://doi.org/10.17617/3.MBE4AA), WAVES 2024, June 29-July 5, Berlin, Germany, 2024.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for one-periodic transmission problems of Helmholtz’ equation in 2D with Burton-Miller integral equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), ICOME 2019, September 27-30, Dalian, China, 2019.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for the one-periodic transmission problems formulated with the multi-trace boundary integral equation](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf), IABEM 2018, June 26-28, Paris, France, 2018.
