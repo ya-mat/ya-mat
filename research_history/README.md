@@ -1,7 +1,7 @@
 ## 研究業績等
 
 ### 論文（査読あり）
-1. Yasuhiro Matsumoto, Kei Matsushima, Injectivity of boundary integral operator in direct-indirect mixed Burton-Miller equation for wave scattering problems with transmissive circular inclusion, JSIAM Letters, vol.17, pp. 61-64, 2025. 
+1. Yasuhiro Matsumoto, Kei Matsushima, [Injectivity of boundary integral operator in direct-indirect mixed Burton-Miller equation for wave scattering problems with transmissive circular inclusion](https://doi.org/10.14495/jsiaml.17.61), JSIAM Letters, vol.17, pp. 61-64, 2025. 
 1. Y Matsumoto, T Maruyama, [Linearly scalable fast direct solver based on proxy surface method for two-dimensional elastic wave scattering by cavity](https://doi.org/10.1016/j.enganabound.2025.106148), Engineering Analysis with Boundary Elements, vol.173, p.106148, 2025.
 1. 松本安弘, 丸山泰蔵, [proxy法による2次元動弾性層ポテンシャルの効率的低ランク近似](https://doi.org/10.60443/jascome.24.0_73), 計算数理工学論文集, vol.24, pp.73-78, 2024.
 1. Y Matsumoto, [Fast wavefield evaluation method based on modified proxy-surface-accelerated interpolative decomposition for two-dimensional scattering problems](https://www.jstage.jst.go.jp/article/jsiaml/16/0/16_61/_article/-char/ja/), JSIAM Letters, vol.16, pp.61-64, 2024.
