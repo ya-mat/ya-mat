@@ -20,8 +20,9 @@
 1. Y Matsumoto, S Satoshi, J Tamamatsu, [Water leakage characteristics in deteriorating steel segments of shield tunnels](https://library.ita-aites.org/wtc/2431-water-leakage-characteristics-in-deteriorating-steel-segments-of-shield-tunnels.html), Proceedings of WTC 2022, 2-8 September, Copenhagen, Denmark, 2022.
 
 ### 国際会議発表
-1. Y. Matsumoto, H. Isakari, [Calderon Preconditioning of Boundary Integral Operators within Non-GMRES Krylov Methods for the Helmholtz Transmission Problems](https://chiba2025.piers.org/session.html?sid=S135), Autumn PIERS 2025, November 5-9, Chiba, Japan, 2025.
-1. Y. Matsumoto, T. Maruyama, [A fast direct solver for time-harmonic in-plane elastic wave scattering problems](https://iabem2024hkust-dev.hkust.edu.hk/programdetail.html), IABEM 2024, December 4-6, Hong Kong SAR, Chaina, 2024.
+1. Y Matsumoto, T Maruyama, Q Ma, R Yokota, Hierarchical compression exploiting symmetries of boundary integral equations in transmission problems, SIAM PP26, March 3-6, Berlin, Germany, 2026.
+1. Y Matsumoto, H. Isakari, [Calderon Preconditioning of Boundary Integral Operators within Non-GMRES Krylov Methods for the Helmholtz Transmission Problems](https://chiba2025.piers.org/session.html?sid=S135), Autumn PIERS 2025, November 5-9, Chiba, Japan, 2025.
+1. Y Matsumoto, T. Maruyama, [A fast direct solver for time-harmonic in-plane elastic wave scattering problems](https://iabem2024hkust-dev.hkust.edu.hk/programdetail.html), IABEM 2024, December 4-6, Hong Kong SAR, Chaina, 2024.
 1. Y Matsumoto, [A proxy-based fast wavefield evaluation using fast direct solver of boundary integral equation for wave scattering problem](https://doi.org/10.17617/3.MBE4AA), WAVES 2024, June 29-July 5, Berlin, Germany, 2024.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for one-periodic transmission problems of Helmholtz’ equation in 2D with Burton-Miller integral equation](http://icome2019.dlut.edu.cn/files/20191023/191023_1609404.pdf), ICOME 2019, September 27-30, Dalian, China, 2019.
 1. Y Matsumoto, N Nishimura, [A fast direct solver for the one-periodic transmission problems formulated with the multi-trace boundary integral equation](https://project.inria.fr/iabem2018/files/2018/06/book-of-abstracts_iabem2018.pdf), IABEM 2018, June 26-28, Paris, France, 2018.
@@ -34,6 +35,8 @@
 1. 松本安弘, proxy法に基づくほぼ線型の時間複雑性の高速直接境界要素法, 計算数理工学レビュー, vol.2024-2, pp.19--30, 2024. (**国内学会誌招待論文**)
 
 ### 国内学会発表等
+1. 松本安弘, スカラー波動多重散乱問題に対する高速直接境界要素法, 第38回計算力学講演会, 9月24日--26日, 長野, 2025.
+1. 松本安弘, 高速直接解法によるスカラー波動場の多重散乱解析, M&M・CMD若手シンポジウム2025, 8月27日--29日, 名古屋, 2025.
 1. 松本安弘, 松島慶, transmission問題における変形されたBurton-Miller型境界積分方程式の見かけの固有値分布, 第30回計算工学講演会, 6月4日--6日, さいたま, 2025.
 1. 内田幸太郎, 松本 安弘, 飯盛浩司, Martinsson&Rokhlinの高速直接解法を用いた散乱問題の解の高階周波数感度解析, 第30回計算工学講演会, 6月4日--6日, さいたま, 2025.
 1. 松本安弘, 丸山泰蔵, 2次元弾性波動transmission問題に対する高速直接解法（シンポジウム講演概要）, 第28回応用力学シンポジウム, 5月16日--17日, 宇治, 2025.
